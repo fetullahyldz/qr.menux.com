@@ -1,0 +1,10 @@
+File system permissions verified: upload directory is writable
+Starting database setup...
+Database configuration: {
+  host: 'localhost',
+  user: 'root',
+  database: 'qr_menu_db',
+  port: '3306'
+}
+Continuing without database connection for development purposes
+Server running on port 3002
